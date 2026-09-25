@@ -9,6 +9,7 @@ for free.
 |---|---|
 | `index.html` | The page. The styles are inline. |
 | `404.html` | The page for an unknown address. |
+| `fuel-tracker/privacy/index.html` | The privacy policy of the iPhone app Fuel Tracker. |
 | `favicon.svg` | The icon. |
 | `CNAME` | The custom domain for GitHub Pages. |
 | `.nojekyll` | Tells GitHub Pages to publish the files as they are. |
